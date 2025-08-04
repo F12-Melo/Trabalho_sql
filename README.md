@@ -1,22 +1,18 @@
 # Trabalho_sql
 04/08/2025
 
-insert - Pedro Ryan
-
-null values - Pedro Ryan
-
 update - Igor
 
 delete - Igor
 
-select top - Eu
+select top - Toledo
 
-aggregate functions - Eu
+aggregate functions - Toledo
 
-min and max - Eu
+min and max - Pedro Ryan
 
-count - Nickpity64
+count - Nicolas
 
-sum - Nickpity64
+sum - Nicolas
 
-avg - Nickpity64
+avg - Pedro Ryan
